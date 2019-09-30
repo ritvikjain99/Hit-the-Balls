@@ -1,3 +1,4 @@
+Sir whose balls are we supposed to hit?
 # Hit-the-Balls
 A javascript based game I created for **Js13kGames**. It is developed in vanilla JS.
 
